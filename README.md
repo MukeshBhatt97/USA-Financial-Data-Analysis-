@@ -1,8 +1,7 @@
 # USA-Financial-Data-Analysis using Power BI
 
 ### Overview
-Automated the process of receiving, cleaning, transforming, and visualizing 25 daily financial data files 
-into an interactive  Power BI dashboard. Streamlined reporting, delivering timely insights to clients.
+The objective of this project was to streamline the data processing workflow for daily survey files received via email, reducing the time spent on manual tasks such as downloading, combining, and cleaning data. The goal was to enhance the accuracy of the analysis, minimize errors, and improve overall efficiency, ultimately delivering timely insights to the US government client and optimizing resource allocation.
 
 ### Skills
 Data Integration (API, Python), Automation (Power Automate, Outlook), Visualization (Power BI, Power 
